@@ -50,8 +50,8 @@ As seen in the notebook, the unigram model also outputs a distribution on the to
 Section 3 implements three binary classifiers to predict whether a question is answerable or not:
 | Model  | Accuracy |
 | ----- | ----- |
-| Logistic Regerssion with BPEmb embeddings  | 67%  |
-| Logistic Regerssion with GloVe embeddings  | 65%  |
+| Logistic Regression with BPEmb embeddings  | 67%  |
+| Logistic Regression with GloVe embeddings  | 65%  |
 | BERT transformer neural network | 87% |
 
 * Sections 4, 5 and 6 are not part of the public repository.
