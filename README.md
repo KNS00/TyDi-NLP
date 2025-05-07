@@ -38,7 +38,7 @@ Section 1 provides basic statistics on the Tydi QA data set. Among other stats, 
 
 
 
-Section 2 implements two language models: 
+Section 2 implements two language models, which predict the next word in sequences:
 
 | Model   | Perplexity |
 |---------|------------|
